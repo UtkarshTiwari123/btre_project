@@ -1,3 +1,3 @@
 # Btre_Project
 
-A listings app using Django and Python
+A property listings app using Django and Python.Currently I am working on this app.
