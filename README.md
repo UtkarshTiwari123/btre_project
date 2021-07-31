@@ -1,5 +1,3 @@
-# btre_project
-
-BTRE-Project
+# Btre_Project
 
 A listings app using Django and Python
